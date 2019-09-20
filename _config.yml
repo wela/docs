@@ -4,3 +4,5 @@ markdown: kramdown
 lang: en
 domain: docs.wela.io
 title: Wela
+
+google_font_family: Titillium+Web:300,400,600,700|Open+Sans:300,400,600,700
