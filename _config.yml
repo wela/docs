@@ -1,1 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
+
+markdown: kramdown
+lang: en
+domain: docs.wela.io
+title: Wela
